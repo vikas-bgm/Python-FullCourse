@@ -1,0 +1,7 @@
+This is a sample text file for learning -
+Amazon Aurora Serverless v2 configured with a capacity range of 4 to 24 ACUs,
+ provides between 8 GB and 48 GB of memory, automatically scaling compute up and down,
+in fine 0.5-ACU increments based on live workload demand.
+Capacity and Resource SpecsMemory Allocation: Scales dynamically from 8 GiB (at 4 ACUs),
+ up to 48 GiB (at 24 ACUs).CPU and Networking: Adjusts proportionally alongside memory increments.
+ Scaling Granularity: Changes smoothly in steps of 0.5 ACUs without needing to double capacity blocks.
